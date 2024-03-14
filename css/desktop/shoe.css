@@ -1,0 +1,17 @@
+.shoe {
+  width: 100%;
+  height: 167px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  .shoe__center{
+    width: 85%;
+    height: inherit;
+    & img{
+        width: 100%;
+        height: inherit;
+        border-radius: 20px;
+        object-fit: cover;
+    }
+  }
+}

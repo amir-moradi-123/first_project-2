@@ -1,0 +1,11 @@
+.supports{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    padding: 12px;
+    background-color: #ef4056;
+    position: fixed;
+    left: 40px;
+    bottom: 20px;
+    z-index: 9999;
+}
